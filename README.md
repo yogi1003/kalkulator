@@ -1,1 +1,1 @@
-# mtk
+kalkulator sederhana menggunakan python
